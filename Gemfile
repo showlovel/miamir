@@ -1,4 +1,4 @@
-source 'http://rubygems.org'
+source 'http://ruby.taobao.org'
 
 gem 'rails', '3.2.11'
 
@@ -35,4 +35,4 @@ gem "rails-backbone" #, :git => 'https://github.com/codebrew/backbone-rails.git'
 gem "mysql2"
 gem 'capistrano'
 gem "thin"
-gem "kaminari" 
+gem "kaminari"
